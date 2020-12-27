@@ -1,0 +1,8 @@
+[1228/030424.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1228/030424.350:ERROR:file_io_win.cc(162)] CreateFile C:\Users\LENOVO\AppData\Local\Temp\puppeteer_dev_chrome_profile-V92Y8i\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1228/030424.351:ERROR:file_io_win.cc(171)] CreateFile C:\Users\LENOVO\AppData\Local\Temp\puppeteer_dev_chrome_profile-V92Y8i\Crashpad\reports\fd63d5ff-58a7-4473-8831-7635ea536b28.dmp: The system cannot find the path specified. (0x3)
+[1228/030424.351:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1228/030517.057:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1228/030517.065:ERROR:file_io_win.cc(162)] CreateFile C:\Users\LENOVO\AppData\Local\Temp\puppeteer_dev_chrome_profile-J1fHwy\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1228/030517.066:ERROR:file_io_win.cc(171)] CreateFile C:\Users\LENOVO\AppData\Local\Temp\puppeteer_dev_chrome_profile-J1fHwy\Crashpad\reports\be4de6be-4851-49ee-8832-d48082cf1ce0.dmp: The system cannot find the path specified. (0x3)
+[1228/030517.066:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
