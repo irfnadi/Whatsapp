@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/irfnadi/whatsapp/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/irfnadi/whatsapp/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/irfnadi/whatsapp/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/irfnadi/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
@@ -12,7 +12,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
+> git clone https://github.com/irfnadi/whatsapp
 > cd whatsapp-bot
 ```
 
@@ -33,13 +33,13 @@ Run the Whatsapp bot
 after running it you need to scan the qr
 
 ### Information
-- Change ownerNumber on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/api.json)
+- Change ownerNumber on [this section](https://github.com/irfnadi/whatsapp/blob/master/settings/setting.json#L2)
+- Change groupLimit on [this section](https://github.com/irfnadi/whatsapp/blob/master/settings/setting.json#L3)
+- Change memberLimit on [this section](https://github.com/irfnadi/whatsapp/blob/master/settings/setting.json#L4)
+- Change prefix on [this section](https://github.com/irfnadi/whatsapp/blob/master/settings/setting.json#L5)
+- Change menu on [this section](https://github.com/irfnadi/whatsapp/blob/master/lib/menu.js#L32)
+- Add kata kasar on [this section](https://github.com/irfnadi/whatsapp/blob/master/lib/kataKotor.js#L8)
+- Change all apiKey on [this section](https://github.com/irfnadi/whatsapp/blob/master/settings/api.json)
 - Get Api NoBackground on [this website](https://www.remove.bg/)
 - Get Api ScreenShot on [this website](https://apiflash.com/)
 - Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/ArugaZ/whatsapp-bot/issues/38#issuecomment-726981060)
