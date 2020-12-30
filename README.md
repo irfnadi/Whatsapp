@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/irfnadi/whatsapp/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/irfnadi/whatsapp/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/irfnadi/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+## IRFAN WhatsApp Bot
  
 ## Getting Started
 
